@@ -8,4 +8,4 @@
 julioarmandomontenegro/julioarmandomontenegro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Hola  soy  Julio Armando  Montenegro,  actualmenter  estoy aprendiendo Desarrollo Front End , principalmente de Potrero Digital, pero tambien en  Fundación Telefónica, Fundación Carlos Slim, freecodecamp, y  otras más...
+
